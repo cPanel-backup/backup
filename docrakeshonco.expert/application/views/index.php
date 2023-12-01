@@ -21,7 +21,7 @@
 					<img src="<?php echo base_url();?>uploads/sliders/slider-1_m.png" alt="slider-1" class="mobbanner">
 				<div class="carousel-caption _mobile_caption">
 				    <div class="animate_div animate__animated animate__zoomIn">
-				        	<h5 class="color">Get ready for your <br>Best Health.</h5>
+				        	<h5 class="color">Get ready for your Health</h5>
                          <a href="<?php echo base_url();?>contact-us" class="btn btn_theme d-none">Get in Touch</a>
 				    </div>
 				
